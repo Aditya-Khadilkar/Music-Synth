@@ -1,0 +1,32 @@
+X:1
+T:Moonlight Sonata 3rd Mvt - Beethoven
+I:abc-version 2.1
+I:abc-creator MidiZyx2abc 6.04
+I:linebreak $
+M:C
+L:1/8
+Q:1/4=167
+I:score {Piano | Piano2}
+K:E
+V:Piano name="Piano"
+F3/4G/(3:2:5A/^A3/4B/^B3/4c/(3^^c/d/e/^e/4f/4^^f/4g/4|%
+(3a/b/z/8(3a3/8z/4b/a/4(3b/a/b/a/4(3b/8z/G,,/C,/E,/G,/C,/E,/G,/C/E,/G,/C/E/G,/C/E/||G/C/E/G/c/E/G/c/e/G/c/e/[cGeg][gGce]|%
+z/G,,/^B,,/D,/G,/B,,/D,/G,/^B,/D,/G,/B,/D/G,/B,/D/||G/^B,/D/G/^B/D/G/B/d/G/B/d/[GBdg][GBdg]||z/C,/^E,/G,/C/E,/G,/C/^E/G,/C/E/G/C/E/G/|%
+A/c/f/a/g/b/a/=g/^f/e/d/f/a/f/c/F/A/c/f/a/f/c/F/A/c/f/a/f/c/g/b/a/=g/^f/e/d/F/A/||(3afe(3df[cAf][Bdg][Acf][BGe][GBe][FAd][cEG][EGc][FAd][cEG][EGc][FAd][GEc]|%
+[F,C,A,C]/C,/F,/A,/C/F,/A,/C/F/A/||c/g/e/c/G/e/d/e/f/^^f/a/g/b/a/=g/^f/e/d/||[bBg][bg][bg][bd']z[FDB]z[cCE]z[FDB]z[FDB]z[c'g][c'g][e'c']|%
+z[bg][gb][bg][d'b]z[^a^^f][af][d'a]||z[db][d'g]z[=ac][ac][ec']|%
+z[gB][Bg][db]z[^^f^A][Af][c^a]||G2F3Fc3/E/C/^A,/|%
+B2^A3Ad3/A/||B[d'd]2[dd']2[dd'][Bb][gG]||[gG][BB,][gG]3/[Cc]/||[eE]2[dD]3[Dd][gG]3/[B,B]/|%
+[^A^a][Gg]2[Gg]2[Gg]||(3afc(3AFC(3AFC(3AFC(3AFC(3A,F,C,^B,,(3D,||D/d/c/d/D/d/c/d/D/d/c/d/D/d/c/d/||D2C3CG3/C/||c4(3^d/e/d/(3e/c/G/E/C/G/E/C/G,/E/C/G,/E,/C/G,/E,/C,/G,/E,/C,/E,/F,/^^F,/A,/=G,/E,/C,/E,/G,/(3A,/C/F/A/||c/F/A/c/f/F/f/[dG]/f/|%
+E/e/c/e/E/e/c/e/E/e/c/e/E/e/c/e/E/e/c/e/E/e/c/e/||C,2z2G4E3/C/4(3:2:2^B,/8C/4||[DC]2^%%MIDI program 0 % Grand Piano
+V:Piano2
+F3/4G/(3:2:5A/^A3/4B/^B3/4c/(3^^c/d/e/^e/4f/4^^f/4g/4|%
+(3a/b/z/8(3a3/8z/4b/a/4(3b/a/b/a/4(3b/8z/G,,/C,/E,/G,/C,/E,/G,/C/E,/G,/C/E/G,/C/E/||G/C/E/G/c/E/G/c/e/G/c/e/[cGeg][gGce]|%
+z/G,,/^B,,/D,/G,/B,,/D,/G,/^B,/D,/G,/B,/D/G,/B,/D/||G/^B,/D/G/^B/D/G/B/d/G/B/d/[GBdg][GBdg]||z/C,/^E,/G,/C/E,/G,/C/^E/G,/C/E/G/C/E/G/|%
+A/c/f/a/g/b/a/=g/^f/e/d/f/a/f/c/F/A/c/f/a/f/c/F/A/c/f/a/f/c/g/b/a/=g/^f/e/d/F/A/||(3afe(3df[cAf][Bdg][Acf][BGe][GBe][FAd][cEG][EGc][FAd][cEG][EGc][FAd][GEc]|%
+[F,C,A,C]/C,/F,/A,/C/F,/A,/C/F/A/||c/g/e/c/G/e/d/e/f/^^f/a/g/b/a/=g/^f/e/d/||[bBg][bg][bg][bd']z[FDB]z[cCE]z[FDB]z[FDB]z[c'g][c'g][e'c']|%
+z[bg][gb][bg][d'b]z[^a^^f][af][d'a]||z[db][d'g]z[=ac][ac][ec']|%
+z[gB][Bg][db]z[^^f^A][Af][c^a]||G2F3Fc3/E/C/^A,/|%
+B2^A3Ad3/A/||B[d'd]2[dd']2[dd'][Bb][gG]||[gG][BB,][gG]3/[Cc]/||[eE]2[dD]3[Dd][gG]3/[B,B]/|%
+[^A^a][Gg]2[Gg]2[Gg]||(3afc(3AFC(3AFC(3AFC(3AFC(3A,F,C,^B,,(3D,||D/d/c/d/D/d/c/d/D/d/c/d/D/d/c/d/||D2C3CG3/C/||c4(3^d/e/d/(3e/c/G/E/C/G/E/C/G,/E/C/G,/E,/C/G,/E,/C,/G,/E,/C,/E,/F,/^^F,/A,/=G,/E,/C,/E,/G,/(3A,/C/F/A/||c/F/A/c/f/F/f/[dG]/f/|%
+E/e/c/e/E/e/c/e/E/e/c/e/E/e/c/e/E/e/c/e/E/e/c/e/||C,2z2G4E3/C/4(3:2:2^B,/8C/4||[DC]2^%%MIDI program 0 % Grand Piano
