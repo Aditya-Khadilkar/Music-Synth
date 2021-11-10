@@ -3,6 +3,9 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VQFU5VyuM0k/0.jpg)](https://www.youtube.com/watch?v=VQFU5VyuM0k)
 
+ ## Samples
+ 
+ [Soundcloud](https://soundcloud.com/aditya-khadilkar/sets/paths?si=ea2c884fd76540b9abf7e9e843f52dc8)
 
 ## Installation
 
