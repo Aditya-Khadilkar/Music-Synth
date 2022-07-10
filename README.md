@@ -21,3 +21,5 @@
 ## Working
 I first convert midi to ABC notation and extract the verses
 I then use Byte Pair encoding to compress the repeated patterns and finally a markov model to generate the sequence.
+The sequence is then converted to abc notation which is then converted to a midi file
+I use soundfonts to get a mp3
