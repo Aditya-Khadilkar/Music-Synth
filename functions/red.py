@@ -6,7 +6,7 @@ def activateRed(songtitle):
     #arr = os.listdir('input')
     filename = 'input/'+ songtitle
     activateBoilerplate(filename)
-    ls = seperator('tempfilesm/verse1.txt')
+    ls = seperator('tempfilesm/verse2.txt')#change to 1
     word2tok, tok2word, toksong = dictGenerator(ls)
     with open('tempfilesm/word2tok.json', 'w') as fp:
         json.dump(word2tok, fp)

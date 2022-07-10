@@ -1,0 +1,22 @@
+X:1
+T:Tsuki_To_Hoshizora
+I:abc-version 2.1
+I:abc-creator MidiZyx2abc 6.04
+I:linebreak $
+M:C
+L:1/8
+Q:1/4=85
+I:score Piano 2
+K:Db
+V:Piano name="Piano"
+FE2EF||GA||Fz4_A2||BAGFEz2F/G/Az2AAGFG||A4zABc||c=AAFF||G2zFEF|%
+GA__BGGFGBzAB=A2zAzG2||FEDz2FG||A2||_B2zGGFGBz2E||FFz2Az||BAGFE2EF||GA__B||A4z2Az||BAGFE2EF||GAz4[DF]2||GFEDz2E||FFz2AzFFzE3/D/||D/E/F3-F2_A2||BAGFE2EF||GzAB=A2FED2zD||DCzEFEz2E||FFzFGzED||DCCCCDBz2E||FFz2AzFF||GzAAGFG||A4zABc||c=AAFFzA2FEFF||G2zBGFGBzAzG2||FEDzE3/D/||D/E/F||[CA]4z2E/F/||G2zGFGBzAzG2||F/G/|%
+__Bz2E||FFz2Az||BAGFE2EF||GA__B3zG2||F/G/ABBAGFE/F/||G2FED2zDFABGFGBGFGBz2FG||A2FE|%
+Dz3D/E/||c'4z3D/E/||c'4z3D/E/||[CA]4z2FG||Az2AAGFG||A4zABc||c=AAFFzBz3G2||FEFF||G2FEF3E||FFzFGzED||DzEDEFED2zD||DCD%%MIDI program 0 % Grand Piano
+V:2
+[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,A,A,[C,A,]F,[C,A,]F,||C,F,A,zD,F,B,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,zzA,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,||[C,A,]F,[C,A,]F,||C,F,A,zD,F,B,[C,A,]z||[C,A,]F,[C,A,]F,|||%
+[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,||[D,B,]G,[D,B,]G,[D,A,]F,[D,A,]F,|%
+[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[C,=A,]C,F,A,zD,F,B,C,F,A,zD,F,B,E,||[C,=A,][C,A,]F,[C,A,]F,||[C,A,]E,[C,A,]E,[C,A,]F,[C,A,]F,||[C,A,]F,[C,A,]F,||[E,B,]__[E,B,]__[E,B,]__[C,A,]F,[C,A,]F,||[C,A,]F,[C,A,]F,||z||z||z||z||C,F,A,zD,F,B,C,F,A,zD,F,B,E,||[C,=A,][E,B,]__[C,A,]F,[C,A,]F,||[C,A,]F,||[C,A,]F,||[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[C,=A,]A,[C,A,]F,||[C,A,]F,||[C,A,]F,||[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,A,[C,A,]E,[C,A,]E,[C,A,]E,[C,A,]E,[D,B,]F,[D,B,]F,[E,B,]__[E,B,]__[C,A,]F,[C,A,]F,||[C,A,]F,||C,F,A,zD,F,B,z||[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[C,A,]F,[C,A,]F,||[C,A,]E,[C,A,]E,[C,A,]F,[C,A,]F,||F,F,[C,A,]F,[C,A,]F,||[D,B,]G,[D,B,]G,[D,B,]G,[D,B,]G,zA,,E,A,E,||G,,D,G,B,DB,DB,||A,,E,A,C[D,B,]G,[D,B,]G,[C,A,]F,[C,A,]F,||[D,B,]G,[D,B,]G,[D,B,]G,[D,B,]G,[D,B,]G,[D,B,]G,[D,B,]G,[D,B,]G,[C,A,]E,[C,=A,][E,B,]__[C,A,]F,[C,A,]F,||[C,A,]F,||C,F,A,zD,F,B,[D,B,]F,[D,B,]F,[C,A,]F,[C,A,]F,||[C,A,]F,[C,A,]F,||C,F,A,zD,F,B,z||[C,A,]F,[C,A,]F,||F,C,F,A,zD,F,B,[C,A,]z||[C,=A,]C,F,A,zD,F,B,E,||[C,=A,][C,A,]F,[C,A,]F,||[E,B,]__[E,B,]__z||[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,[C,A,]F,[C,A,]F,||A,E,||[E,B,]__[D,B,]G,[D,B,]G,[C,A,][C,A,]z||C,F,A,zD,F,B,E,||[C,=A,][C,A,]F,[C,A,]F,||[E,B,]__z|%
+C,F,A,zD,F,B,[C,=A,][E,B,]__[C,A,]F,[C,A,]F,||[C,A,]F,||[C,A,]F,||[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[D,B,]F,[E,B,]__zA,[C,=A,]z||[C,A,]F,[C,A,]F,||[D,B,]G,[D,B,]G,[C,A,][C,A,]F,F,[E,B,]__A,[C,=A,]C,F,A,zD,F,B,E,||[C,=A,]C,F,A,zD,F,B,E,||[C,=A,][E,B,]__[C,A,]F,[C,A,]F,||[C,A,]F,[C,A,]F,||F,|%
+[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,||[D,B,]G,[D,B,]G,[D,A,]F,[D,A,]F,|%
+[D,B,]F,[D,B,]F,[C,A,]E,[C,=A,]z||A,A,,E,A,[C,=A,]z||A,A,,E,A,[C,=A,]z||A,E,||[E,B,]__[C,A,]F,[C,A,]F,||A,[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,||[C,A,]F,[C,A,]F,||C,F,A,zD,F,B,z||[C,=A,][C,=A,][C,=A,]F,C,F,A,zD,F,B,[C,A,]F,zA,,E,A,E,||G,,D,G,B,DB,DB,||A,,E,A,C[D,B,]G,[D,B,]G,[C,A,]F,[C,A,]F,||[D,B,]G,[D,B,]G,[C,A,]E,[D,B,]G,[D,B,]G,F,F,[C,A,]F,[C,A,]F,||[D,B,]G,[D,B,]G,[C,A,]E,

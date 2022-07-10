@@ -1,16 +1,15 @@
 X:1
-T:Moonlight Sonata 3rd Mvt - Beethoven
+T:Tsuki_To_Hoshizora
 I:abc-version 2.1
 I:abc-creator MidiZyx2abc 6.04
 I:linebreak $
 M:C
 L:1/8
-Q:1/4=167
-I:score {Piano | Piano2}
-K:E
+Q:1/4=85
+I:score Piano 2
+K:Db
 V:Piano name="Piano"
 <New Voice here> 
 %%MIDI program 0 % Grand Piano
-V:Piano2
+V:2
 <New Voice here> 
-%%MIDI program 0 % Grand Piano

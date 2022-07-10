@@ -1,0 +1,38 @@
+X:1
+T:Tsuki_To_Hoshizora
+I:abc-version 2.1
+I:abc-creator MidiZyx2abc 6.04
+I:linebreak $
+M:C
+L:1/8
+Q:1/4=85
+I:score Piano 2
+K:Db
+V:Piano name="Piano"
+FE/F/||G2FED2zDFAz2AzFF||G2zA2zAzG2||F/G/A||D,,A,,D,F,A,2z2D||CCCDzG,,D,G,zA2||_B2zG,,D,G,z||D,2__B,2G,2B,2G,2B,2G,2B,2G,2B,2G,2B,2||F,,C,F,=A,CA,CA,|%
+[D,B,]G,[D,B,]G,[C,=A,]F,||gfgfe2c2||[C,A,]E,[C,A,]E,|%
+[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,||[D,B,]G,[D,B,]G,[D,A,]F,[D,A,]F,|%
+[D,B,]F,[D,B,]F,[C,A,]E,[C,A,]E,||[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,||C,F,A,zD,F,B,zG,,D,G,zBz3||GAz2Az||D,2__B,2||D,,A,,D,F,A,2z2DFA-||F3/E3/EDzFEFz2E||FFz2Az|%
+A,,E,A,E,F,,C,F,C,||G,,D,G,z||BAGFE2EF|%
+GA__Bz2DFAz4[DF]2||GFEDD2zD||DzEFEz2F/G/Az2AzFF||GA__BBAGF||B,,F,B,F,A,,E,_A,E,||G,,D,G,D,A,,E,A,E,||F,,C,F,C,B,,F,B,F,|%
+F,,C,F,=A,CA,CA,|%
+C,F,A,zD,F,B,zGGFEDz2FG||ABBAGF||d'8|%
+B,,F,B,F,A,,E,_A,E,||G,,D,G,D,A,,E,A,E,||F,,C,F,C,B,,F,B,F,|%
+B,,F,B,F,A,,E,_A,E,||G,,D,G,D,A,,E,A,E,||F,,C,F,C,B,,F,B,F,|%
+C,F,A,zD,F,B,zGFGBz2DFABzAB=A2zAzG2||FEDD2zD||DzEDEFDB||F,,C,F,=A,CA,CF,||d'8|%
+A,,E,A,E,F,,C,F,C,||G,,D,G,B,DB,DB,||A,,E,A,CE2ECEC||D,,A,,D,F,A,F,A,F,|%
+F,,C,F,=A,CA,CA,%%MIDI program 0 % Grand Piano
+V:2
+FE/F/||G2FED2zDFAz2AzFF||G2zA2zAzG2||F/G/A||D,,A,,D,F,A,2z2D||CCCDzG,,D,G,zA2||_B2zG,,D,G,z||D,2__B,2G,2B,2G,2B,2G,2B,2G,2B,2G,2B,2||F,,C,F,=A,CA,CA,|%
+[D,B,]G,[D,B,]G,[C,=A,]F,||gfgfe2c2||[C,A,]E,[C,A,]E,|%
+[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,||[D,B,]G,[D,B,]G,[D,A,]F,[D,A,]F,|%
+[D,B,]F,[D,B,]F,[C,A,]E,[C,A,]E,||[D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,||C,F,A,zD,F,B,zG,,D,G,zBz3||GAz2Az||D,2__B,2||D,,A,,D,F,A,2z2DFA-||F3/E3/EDzFEFz2E||FFz2Az|%
+A,,E,A,E,F,,C,F,C,||G,,D,G,z||BAGFE2EF|%
+GA__Bz2DFAz4[DF]2||GFEDD2zD||DzEFEz2F/G/Az2AzFF||GA__BBAGF||B,,F,B,F,A,,E,_A,E,||G,,D,G,D,A,,E,A,E,||F,,C,F,C,B,,F,B,F,|%
+F,,C,F,=A,CA,CA,|%
+C,F,A,zD,F,B,zGGFEDz2FG||ABBAGF||d'8|%
+B,,F,B,F,A,,E,_A,E,||G,,D,G,D,A,,E,A,E,||F,,C,F,C,B,,F,B,F,|%
+B,,F,B,F,A,,E,_A,E,||G,,D,G,D,A,,E,A,E,||F,,C,F,C,B,,F,B,F,|%
+C,F,A,zD,F,B,zGFGBz2DFABzAB=A2zAzG2||FEDD2zD||DzEDEFDB||F,,C,F,=A,CA,CF,||d'8|%
+A,,E,A,E,F,,C,F,C,||G,,D,G,B,DB,DB,||A,,E,A,CE2ECEC||D,,A,,D,F,A,F,A,F,|%
+F,,C,F,=A,CA,CA,

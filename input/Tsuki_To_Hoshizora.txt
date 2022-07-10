@@ -1,8 +1,21 @@
+X:1
+T:Tsuki_To_Hoshizora
+I:abc-version 2.1
+I:abc-creator MidiZyx2abc 6.04
+I:linebreak $
+M:C
+L:1/8
+Q:1/4=85
+I:score Piano 2
+K:Db
+V:Piano name="Piano"
+%%MIDI program 0 % Grand Piano
 dcdfe2c2| gfgaf4| g4b2d'2| c'4z3D/E/| F3/E3/EFEFF| G2FEF3E| FFzFGzED| DzEFEz2E| FFzFGFEF| % 9
 GzFEFz2E| FFz2AzFF| GFEDD2zD| DCDEDz2D| CCzEDz3| GABzAzG2| F/G/Az4[DF]2| GzAB=A2FE| % 17
 DEFDBz2E/F/| G2zGGFGB| [CA]4z2FG| Az2AAGFG| A4zABc| c=AAFFzE3/D/| D/E/Fz4_A2| BAGFEz2F/G/| % 25
 __BGFEDzA2| _B2zBBAGF| FE/E/-E2-E2FG| A2zAAGFG| A4zABc| c=AAFF2E3/D/| D/E/F3-F2_A2| BAGFE2EF| % 33
 GA__Bz3G2| FED2zDFA-| A4z2Az| BAGFE2EF| GA__B3zG2| FEDz2DFA| d'8-| d'8|] % 41
+V:2
 D,A,DzA,,E,A,z| B,,F,B,zA,,E,A,E,| G,,D,G,B,DB,DB,| A,,E,A,CE4| % 4
 [D,A,]F,[D,A,]F,[D,A,]F,[D,A,]F,| [D,B,]G,[D,B,]G,[D,A,]F,[D,A,]F,| % 6
 [D,B,]F,[D,B,]F,[C,A,]F,[C,A,]F,| [D,B,]G,[D,B,]G,[C,A,]E,[C,A,]E,| % 8
